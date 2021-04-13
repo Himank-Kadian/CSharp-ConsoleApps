@@ -1,0 +1,14 @@
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.exe.config
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.exe
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.pdb
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.csprojAssemblyReference.cache
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.exe
+C:\Users\himan\source\repos\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.pdb
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.exe.config
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.exe
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\bin\Debug\Portfolio_1.pdb
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.exe
+C:\Users\himan\Desktop\Study\C#\Portfolio_1\Portfolio_1\obj\Debug\Portfolio_1.pdb

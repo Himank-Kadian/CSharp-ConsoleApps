@@ -1,0 +1,7 @@
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\bin\Debug\CorePortfolio5-Himank_Kadian.exe.config
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\bin\Debug\CorePortfolio5-Himank_Kadian.exe
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\bin\Debug\CorePortfolio5-Himank_Kadian.pdb
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\obj\Debug\CorePortfolio5-Himank_Kadian.csprojAssemblyReference.cache
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\obj\Debug\CorePortfolio5-Himank_Kadian.csproj.CoreCompileInputs.cache
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\obj\Debug\CorePortfolio5-Himank_Kadian.exe
+C:\Users\himan\Source\Repos\csharp-05-arrays\CorePortfolio5-Himank_Kadian\obj\Debug\CorePortfolio5-Himank_Kadian.pdb

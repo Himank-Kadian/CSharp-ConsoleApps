@@ -1,0 +1,7 @@
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\bin\Debug\CorePortfolio-3.exe.config
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\bin\Debug\CorePortfolio-3.exe
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\bin\Debug\CorePortfolio-3.pdb
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\obj\Debug\CorePortfolio-3.csprojAssemblyReference.cache
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\obj\Debug\CorePortfolio-3.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\obj\Debug\CorePortfolio-3.exe
+C:\Users\himan\source\repos\CorePortfolio-3\CorePortfolio-3\obj\Debug\CorePortfolio-3.pdb

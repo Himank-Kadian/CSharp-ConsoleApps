@@ -1,0 +1,7 @@
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\bin\Debug\AP5-objects-CarSimulator.exe.config
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\bin\Debug\AP5-objects-CarSimulator.exe
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\bin\Debug\AP5-objects-CarSimulator.pdb
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\obj\Debug\AP5-objects-CarSimulator.csprojAssemblyReference.cache
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\obj\Debug\AP5-objects-CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\obj\Debug\AP5-objects-CarSimulator.exe
+C:\Users\himan\Source\Repos\csharp-07-advanced-portfolio1\AP5-objects-CarSimulator\obj\Debug\AP5-objects-CarSimulator.pdb
