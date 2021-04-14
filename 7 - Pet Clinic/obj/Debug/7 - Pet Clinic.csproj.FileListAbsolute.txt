@@ -1,0 +1,6 @@
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\bin\Debug\AP4-list-objects-PetPainKiller.exe.config
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\bin\Debug\AP4-list-objects-PetPainKiller.exe
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\bin\Debug\AP4-list-objects-PetPainKiller.pdb
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\obj\Debug\7 - Pet Clinic.csproj.CoreCompileInputs.cache
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\obj\Debug\AP4-list-objects-PetPainKiller.exe
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\7 - Pet Clinic\obj\Debug\AP4-list-objects-PetPainKiller.pdb

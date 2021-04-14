@@ -1,0 +1,6 @@
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\bin\Debug\AP2-multidimensionalArray-TicTacToe.exe.config
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\bin\Debug\AP2-multidimensionalArray-TicTacToe.exe
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\bin\Debug\AP2-multidimensionalArray-TicTacToe.pdb
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\obj\Debug\6 - TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\obj\Debug\AP2-multidimensionalArray-TicTacToe.exe
+C:\Users\H2Kn\Source\Repos\CSharp-Console-Apps\6 - TicTacToe\obj\Debug\AP2-multidimensionalArray-TicTacToe.pdb

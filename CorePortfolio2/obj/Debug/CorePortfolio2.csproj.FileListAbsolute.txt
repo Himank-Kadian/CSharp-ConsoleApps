@@ -1,7 +1,0 @@
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\bin\Debug\CorePortfolio2.exe.config
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\bin\Debug\CorePortfolio2.exe
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\bin\Debug\CorePortfolio2.pdb
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\obj\Debug\CorePortfolio2.csprojAssemblyReference.cache
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\obj\Debug\CorePortfolio2.csproj.CoreCompileInputs.cache
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\obj\Debug\CorePortfolio2.exe
-C:\Users\himan\source\repos\CorePortfolio2\CorePortfolio2\obj\Debug\CorePortfolio2.pdb
