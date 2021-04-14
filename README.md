@@ -1,6 +1,7 @@
 # CSharp-Console-Apps
 
 Contains various applications that run in the console.
+
 To run:
 > copy the repository link
 > clone repo into Visual Studio 2019
